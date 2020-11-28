@@ -1,0 +1,28 @@
+C:\Users\jamez\source\repos\adet-midterm-q1-sampedro-james\app.repository\bin\Debug\netstandard2.0\appsettings.Development.json
+C:\Users\jamez\source\repos\adet-midterm-q1-sampedro-james\app.repository\bin\Debug\netstandard2.0\appsettings.json
+C:\Users\jamez\source\repos\adet-midterm-q1-sampedro-james\app.repository\bin\Debug\netstandard2.0\app.repository.deps.json
+C:\Users\jamez\source\repos\adet-midterm-q1-sampedro-james\app.repository\bin\Debug\netstandard2.0\app.repository.dll
+C:\Users\jamez\source\repos\adet-midterm-q1-sampedro-james\app.repository\bin\Debug\netstandard2.0\app.repository.pdb
+C:\Users\jamez\source\repos\adet-midterm-q1-sampedro-james\app.repository\bin\Debug\netstandard2.0\app.domain.dll
+C:\Users\jamez\source\repos\adet-midterm-q1-sampedro-james\app.repository\bin\Debug\netstandard2.0\app.domain.pdb
+C:\Users\jamez\source\repos\adet-midterm-q1-sampedro-james\app.repository\obj\Debug\netstandard2.0\app.repository.csprojAssemblyReference.cache
+C:\Users\jamez\source\repos\adet-midterm-q1-sampedro-james\app.repository\obj\Debug\netstandard2.0\app.repository.AssemblyInfoInputs.cache
+C:\Users\jamez\source\repos\adet-midterm-q1-sampedro-james\app.repository\obj\Debug\netstandard2.0\app.repository.AssemblyInfo.cs
+C:\Users\jamez\source\repos\adet-midterm-q1-sampedro-james\app.repository\obj\Debug\netstandard2.0\app.repository.csproj.CoreCompileInputs.cache
+C:\Users\jamez\source\repos\adet-midterm-q1-sampedro-james\app.repository\obj\Debug\netstandard2.0\app.repository.csproj.CopyComplete
+C:\Users\jamez\source\repos\adet-midterm-q1-sampedro-james\app.repository\obj\Debug\netstandard2.0\app.repository.dll
+C:\Users\jamez\source\repos\adet-midterm-q1-sampedro-james\app.repository\obj\Debug\netstandard2.0\app.repository.pdb
+C:\Users\Lenovo Ideapad A320\Source\Repos\adet-midterm-q1-sampedro-james\app.repository\bin\Debug\netstandard2.0\appsettings.Development.json
+C:\Users\Lenovo Ideapad A320\Source\Repos\adet-midterm-q1-sampedro-james\app.repository\bin\Debug\netstandard2.0\appsettings.json
+C:\Users\Lenovo Ideapad A320\Source\Repos\adet-midterm-q1-sampedro-james\app.repository\bin\Debug\netstandard2.0\app.repository.deps.json
+C:\Users\Lenovo Ideapad A320\Source\Repos\adet-midterm-q1-sampedro-james\app.repository\bin\Debug\netstandard2.0\app.repository.dll
+C:\Users\Lenovo Ideapad A320\Source\Repos\adet-midterm-q1-sampedro-james\app.repository\bin\Debug\netstandard2.0\app.repository.pdb
+C:\Users\Lenovo Ideapad A320\Source\Repos\adet-midterm-q1-sampedro-james\app.repository\bin\Debug\netstandard2.0\app.domain.dll
+C:\Users\Lenovo Ideapad A320\Source\Repos\adet-midterm-q1-sampedro-james\app.repository\bin\Debug\netstandard2.0\app.domain.pdb
+C:\Users\Lenovo Ideapad A320\Source\Repos\adet-midterm-q1-sampedro-james\app.repository\obj\Debug\netstandard2.0\app.repository.csprojAssemblyReference.cache
+C:\Users\Lenovo Ideapad A320\Source\Repos\adet-midterm-q1-sampedro-james\app.repository\obj\Debug\netstandard2.0\app.repository.AssemblyInfoInputs.cache
+C:\Users\Lenovo Ideapad A320\Source\Repos\adet-midterm-q1-sampedro-james\app.repository\obj\Debug\netstandard2.0\app.repository.AssemblyInfo.cs
+C:\Users\Lenovo Ideapad A320\Source\Repos\adet-midterm-q1-sampedro-james\app.repository\obj\Debug\netstandard2.0\app.repository.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo Ideapad A320\Source\Repos\adet-midterm-q1-sampedro-james\app.repository\obj\Debug\netstandard2.0\app.repository.csproj.CopyComplete
+C:\Users\Lenovo Ideapad A320\Source\Repos\adet-midterm-q1-sampedro-james\app.repository\obj\Debug\netstandard2.0\app.repository.dll
+C:\Users\Lenovo Ideapad A320\Source\Repos\adet-midterm-q1-sampedro-james\app.repository\obj\Debug\netstandard2.0\app.repository.pdb
